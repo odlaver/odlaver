@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @odlaver
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning about information systems at University of Lampung
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram.com/odlavr
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# Hi, I'm Revaldo
 
-<!---
-odlaver/odlaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Bisa banyak hal, kecuali memilikinya.*
+
+An Information Systems student at Universitas Lampung who just likes to try new things, and usually ends up building something out of them. I enjoy taking an idea from a rough sketch to something people can actually use.
+
+Projects, experience, and everything else live on my **[portfolio →](https://odlaver.github.io/portofolio/)**
+
+### Tech I work with
+
+**Languages** &nbsp; `TypeScript` `JavaScript` `Python` `PHP` `C++` `Kotlin` `Java`
+
+**Web** &nbsp; `Next.js` `React` `Tailwind CSS` `Flask`
+
+**Data** &nbsp; `MySQL` `PostgreSQL` `Supabase`
+
+**Tools** &nbsp; `Git` `Vercel`
+
+---
+
+[Portfolio](https://odlaver.github.io/portofolio/) · [LinkedIn](https://www.linkedin.com/in/revalaja) · [Instagram](https://www.instagram.com/odlavr/) · [Email](mailto:aldo110606@gmail.com)
