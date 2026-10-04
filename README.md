@@ -21,7 +21,7 @@ Projects, experience, and everything else live on my **[portfolio →](https://o
 ---
 
 <p>
-  <a href="https://odlaver.github.io/portofolio/"><img src="https://cdn.simpleicons.org/githubpages" alt="Portfolio" title="Portfolio" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://odlaver.github.io/portofolio/"><img src="https://api.iconify.design/lucide/globe.svg?color=%232563eb" alt="Portfolio" title="Portfolio" width="28" height="28"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/revalaja"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/odlavr/"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" title="Instagram" width="28" height="28"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@odlavr"><img src="https://cdn.simpleicons.org/youtube" alt="YouTube" title="YouTube" width="28" height="28"></a>&nbsp;&nbsp;
