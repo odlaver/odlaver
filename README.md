@@ -20,4 +20,10 @@ Projects, experience, and everything else live on my **[portfolio →](https://o
 
 ---
 
-[Portfolio](https://odlaver.github.io/portofolio/) · [LinkedIn](https://www.linkedin.com/in/revalaja) · [Instagram](https://www.instagram.com/odlavr/) · [YouTube](https://www.youtube.com/@odlavr) · [Email](mailto:aldo110606@gmail.com)
+<p>
+  <a href="https://odlaver.github.io/portofolio/"><img src="https://cdn.simpleicons.org/githubpages" alt="Portfolio" title="Portfolio" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/revalaja"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/odlavr/"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" title="Instagram" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@odlavr"><img src="https://cdn.simpleicons.org/youtube" alt="YouTube" title="YouTube" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="mailto:aldo110606@gmail.com"><img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Email" width="28" height="28"></a>&nbsp;&nbsp;
+</p>
