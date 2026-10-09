@@ -4,7 +4,7 @@
 
 An Information Systems student at Universitas Lampung who just likes to try new things, and usually ends up building something out of them. I enjoy taking an idea from a rough sketch to something people can actually use.
 
-Developer of **[Kulia](https://kulia.live/)**, a reminder app for course assignments and class schedules in the Computer Science department at Universitas Lampung. It sends notifications before deadlines and before classes start.
+Founder and Developer of **[Kulia](https://kulia.live/)**, a reminder app for course assignments and class schedules in the Computer Science department at Universitas Lampung. It sends notifications before deadlines and before classes start.
 
 Projects, experience, and everything else live on my **[portfolio →](https://odlaver.github.io/portofolio/)**
 
