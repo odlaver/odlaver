@@ -6,13 +6,20 @@ An Information Systems student at Universitas Lampung who just likes to try new 
 
 Founder and Developer of **[Kulia](https://kulia.live/)**, a reminder app for course assignments and class schedules in the Computer Science department at Universitas Lampung. It sends notifications before deadlines and before classes start.
 
+Also building:
+
+- **[Tepi](https://github.com/odlaver/tepi)**, a dynamic island for Windows. It shows the song that's playing with synced lyrics, AI coding agents asking for permission, class deadlines, and messages at the top of the screen. Native C#, one exe of about 670 KB. [Download](https://odlaver.github.io/tepi/)
+- **[COBIT](https://github.com/odlaver/cobit)**, a 1v1 quiz duel for students: ban and pick courses in a draft, then answer the same questions under a timer. Built with my team in Laravel.
+
 Projects, experience, and everything else live on my **[portfolio →](https://odlaver.github.io/portfolio/)**
 
 ### Tech I work with
 
-**Languages** &nbsp; `TypeScript` `JavaScript` `Python` `PHP` `C++` `Kotlin` `Java`
+**Languages** &nbsp; `TypeScript` `JavaScript` `Python` `PHP` `C#` `C++` `Kotlin` `Java`
 
-**Web** &nbsp; `Next.js` `React` `Tailwind CSS` `Flask`
+**Web** &nbsp; `Next.js` `React` `Laravel` `Tailwind CSS` `Flask`
+
+**Desktop** &nbsp; `.NET Framework` `WinForms` `Win32 API`
 
 **Data** &nbsp; `MySQL` `PostgreSQL` `Supabase`
 
