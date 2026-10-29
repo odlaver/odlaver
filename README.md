@@ -9,7 +9,7 @@ Founder and Developer of **[Kulia](https://kulia.live/)**, a reminder app for co
 Also building:
 
 - **[Tepi](https://github.com/odlaver/tepi)**, a dynamic island for Windows. It shows the song that's playing with synced lyrics, AI coding agents asking for permission, class deadlines, and messages at the top of the screen. Native C#, one exe of about 670 KB. [Download](https://odlaver.github.io/tepi/)
-- **[COBIT](https://github.com/odlaver/cobit)**, a 1v1 quiz duel for students: ban and pick courses in a draft, then answer the same questions under a timer. Built with my team in Laravel.
+- **[COBIT](https://github.com/odlaver/cobit)**, a 1v1 quiz duel for students: ban and pick courses in a draft, then answer the same questions under a timer. Built with my team in Laravel. [Play](https://cobit.kalri.fun/)
 
 Projects, experience, and everything else live on my **[portfolio →](https://odlaver.github.io/portfolio/)**
 
